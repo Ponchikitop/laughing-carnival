@@ -1,0 +1,19 @@
+#ex1 {
+    max-width: 300px;
+    max-height: 120px;
+    overflow: auto;
+    border: 2px dotted red;
+    margin: 25px;
+}
+
+#ex2 {
+    border: 2px dashed blue;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    display: inline-block;
+}
+
+#ed3 {
+    margin: 50px 20px;
+    display: inline-block;
+}
